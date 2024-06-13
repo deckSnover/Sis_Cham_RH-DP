@@ -1,10 +1,10 @@
-# Sistema de Gerenciamento de Chamados para RH/DP
+## Sistema de Gerenciamento de Chamados para RH/DP
 
-## Descrição do Projeto
+### Descrição do Projeto
 
 Este projeto é um sistema de gerenciamento de chamados para o departamento de Recursos Humanos (RH) e Departamento Pessoal (DP). Permite que funcionários abram chamados para solicitar informações, esclarecer dúvidas ou solicitar serviços relacionados a RH/DP.
 
-## Funcionalidades Principais
+### Funcionalidades Principais
 
 - **Abertura de Chamados**: Funcionários podem abrir chamados categorizados.
 - **Acompanhamento e Notificações**: Funcionários recebem notificações sobre atualizações em seus chamados.
@@ -12,7 +12,7 @@ Este projeto é um sistema de gerenciamento de chamados para o departamento de R
 - **Chat Integrado**: Funcionários podem iniciar conversas em tempo real com membros do RH/DP.
 - **Relatórios e Métricas**: Geração de relatórios sobre volume de chamados e tempo médio de resposta.
 
-## Tecnologias Utilizadas
+### Tecnologias Utilizadas
 
 ### Backend
 - Node.js
