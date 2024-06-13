@@ -1,5 +1,30 @@
 ## Sistema de Gerenciamento de Chamados para RH/DP
 
+plaintextCopy code
+ticket-management-system/
+├── backend/
+│   ├── config/
+│   ├── controllers/
+│   ├── models/
+│   ├── routes/
+│   ├── services/
+│   ├── uploads/
+│   ├── app.js
+│   ├── package.json
+│   └── Dockerfile
+├── frontend/
+│   ├── public/
+│   ├── src/
+│   │   ├── components/
+│   │   ├── pages/
+│   │   ├── App.js
+│   │   ├── index.js
+│   │   └── styles.css
+│   ├── package.json
+│   └── Dockerfile
+├── docker-compose.yml
+└── README.md
+
 ### Descrição do Projeto
 
 Este projeto é um sistema de gerenciamento de chamados para o departamento de Recursos Humanos (RH) e Departamento Pessoal (DP). Permite que funcionários abram chamados para solicitar informações, esclarecer dúvidas ou solicitar serviços relacionados a RH/DP.
