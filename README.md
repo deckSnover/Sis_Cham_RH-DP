@@ -1,6 +1,8 @@
 ## Sistema de Gerenciamento de Chamados para RH/DP
 
-plaintextCopy code
+### Estrutura do Projeto
+
+```plaintext
 ticket-management-system/
 ├── backend/
 │   ├── config/
