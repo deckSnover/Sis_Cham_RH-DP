@@ -26,6 +26,7 @@ ticket-management-system/
 │   └── Dockerfile
 ├── docker-compose.yml
 └── README.md
+```
 
 ### Descrição do Projeto
 
