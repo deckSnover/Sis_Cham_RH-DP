@@ -37,6 +37,5 @@ Este projeto é um sistema de gerenciamento de chamados para o departamento de R
 
 Este projeto está sujeito a uma licença de compra. Para mais informações sobre a licença e para adquirir uma licença, entre em contato com:
 
-- **Nome do Contato**: [Seu Nome]
-- **Email**: [Seu Email]
-- **Telefone**: [Seu Telefone]
+- **Nome do Contato**: [Igor Hilario]
+- **Email**: [igorsilva.mg@outlook.com]
